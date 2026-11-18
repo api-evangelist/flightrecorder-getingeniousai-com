@@ -64,5 +64,130 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Agent Flight Recorder (Ingenious AI) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://flightrecorder.getingeniousai.com
+Agent Flight Recorder (Ingenious AI) provides tamper‑evident, hash‑chained audit logs for AI agent actions. It offers a free tier that records every decision, tool use, and call with immutable precision, enabling replay, export, and compliance reporting. The platform includes a web interface, API access, and guides for integrating audit trails into AI workflows, supporting both developers and enterprises seeking transparent AI operations.
+
+**Areas:** Company · AI · Audit · Logging · Compliance · Platform
+
+## Agent Flight Recorder (Ingenious AI) on APIs.io
+
+Everything profiled for Agent Flight Recorder (Ingenious AI) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/flightrecorder-getingeniousai-com/](https://apis.io/providers/flightrecorder-getingeniousai-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (17)
+
+- [ADMT API](https://apis.io/apis/flightrecorder-getingeniousai-com/admt-api/) — Automated decision-making notice kit API. Metered, API-key-authenticated surface.
+- [AgentBlock API](https://apis.io/apis/flightrecorder-getingeniousai-com/agentblock-api/) — Agent Block API.
+- [AgentGate API](https://apis.io/apis/flightrecorder-getingeniousai-com/agentgate-api/) — Agent Gate API.
+- [Agent Flight Recorder (Ingenious AI) Actions API](https://apis.io/apis/flightrecorder-getingeniousai-com/flightrecorder-getingeniousai-com-actions-api/) — The Actions API from Agent Flight Recorder (Ingenious AI) — 2 operation(s) for actions.
+- [Agent Flight Recorder (Ingenious AI) Agents API](https://apis.io/apis/flightrecorder-getingeniousai-com/flightrecorder-getingeniousai-com-agents-api/) — The Agents API from Agent Flight Recorder (Ingenious AI) — 1 operation(s) for agents.
+- [Agent Flight Recorder (Ingenious AI) Attestations API](https://apis.io/apis/flightrecorder-getingeniousai-com/flightrecorder-getingeniousai-com-attestations-api/) — The Attestations API from Agent Flight Recorder (Ingenious AI) — 2 operation(s) for attestations.
+- [Agent Flight Recorder (Ingenious AI) Audit API](https://apis.io/apis/flightrecorder-getingeniousai-com/flightrecorder-getingeniousai-com-audit-api/) — The Audit API from Agent Flight Recorder (Ingenious AI) — 1 operation(s) for audit.
+- [Agent Flight Recorder (Ingenious AI) Chain API](https://apis.io/apis/flightrecorder-getingeniousai-com/flightrecorder-getingeniousai-com-chain-api/) — The Chain API from Agent Flight Recorder (Ingenious AI) — 1 operation(s) for chain.
+- [Agent Flight Recorder (Ingenious AI) Checkpoints API](https://apis.io/apis/flightrecorder-getingeniousai-com/flightrecorder-getingeniousai-com-checkpoints-api/) — The Checkpoints API from Agent Flight Recorder (Ingenious AI) — 2 operation(s) for checkpoints.
+- [Agent Flight Recorder (Ingenious AI) Cost Attestations API](https://apis.io/apis/flightrecorder-getingeniousai-com/flightrecorder-getingeniousai-com-cost-attestations-api/) — The Cost Attestations API from Agent Flight Recorder (Ingenious AI) — 1 operation(s) for cost attestations.
+- [Agent Flight Recorder (Ingenious AI) Inclusion API](https://apis.io/apis/flightrecorder-getingeniousai-com/flightrecorder-getingeniousai-com-inclusion-api/) — The Inclusion API from Agent Flight Recorder (Ingenious AI) — 1 operation(s) for inclusion.
+- [Agent Flight Recorder (Ingenious AI) Negative Proofs API](https://apis.io/apis/flightrecorder-getingeniousai-com/flightrecorder-getingeniousai-com-negative-proofs-api/) — The Negative Proofs API from Agent Flight Recorder (Ingenious AI) — 2 operation(s) for negative proofs.
+- [Agent Flight Recorder (Ingenious AI) Otel API](https://apis.io/apis/flightrecorder-getingeniousai-com/flightrecorder-getingeniousai-com-otel-api/) — The Otel API from Agent Flight Recorder (Ingenious AI) — 2 operation(s) for otel.
+- [Agent Flight Recorder (Ingenious AI) Oversight API](https://apis.io/apis/flightrecorder-getingeniousai-com/flightrecorder-getingeniousai-com-oversight-api/) — The Oversight API from Agent Flight Recorder (Ingenious AI) — 2 operation(s) for oversight.
+- [Agent Flight Recorder (Ingenious AI) Run Seals API](https://apis.io/apis/flightrecorder-getingeniousai-com/flightrecorder-getingeniousai-com-run-seals-api/) — The Run Seals API from Agent Flight Recorder (Ingenious AI) — 1 operation(s) for run seals.
+- [Agent Flight Recorder (Ingenious AI) Runs API](https://apis.io/apis/flightrecorder-getingeniousai-com/flightrecorder-getingeniousai-com-runs-api/) — The Runs API from Agent Flight Recorder (Ingenious AI) — 1 operation(s) for runs.
+- [Agent Flight Recorder (Ingenious AI) Usage API](https://apis.io/apis/flightrecorder-getingeniousai-com/flightrecorder-getingeniousai-com-usage-api/) — The Usage API from Agent Flight Recorder (Ingenious AI) — 1 operation(s) for usage.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Agent Flight Recorder (Ingenious AI) Agentic Access](https://apis.io/agentic-access/flightrecorder-getingeniousai-com/flightrecorder-getingeniousai-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Agent Flight Recorder (Ingenious AI) API Rules](https://apis.io/rules/flightrecorder-getingeniousai-com/flightrecorder-getingeniousai-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Agent Flight Recorder (Ingenious AI) Authentication](https://apis.io/security/flightrecorder-getingeniousai-com/flightrecorder-getingeniousai-com-authentication/)
+- [Agent Flight Recorder (Ingenious AI) Domain Security](https://apis.io/security/flightrecorder-getingeniousai-com/flightrecorder-getingeniousai-com-domain-security/)
+- [Agent Flight Recorder (Ingenious AI) Vulnerability Disclosure](https://apis.io/security/flightrecorder-getingeniousai-com/flightrecorder-getingeniousai-com-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Agent Flight Recorder (Ingenious AI) Plans Pricing](https://apis.io/plans/flightrecorder-getingeniousai-com/flightrecorder-getingeniousai-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://flightrecorder.getingeniousai.com)
+- [Documentation](https://flightrecorder.getingeniousai.com/openapi.json)
+- [Getting started](https://flightrecorder.getingeniousai.com/blog/free-ai-agent-audit-trail-getting-started)
+- [Pricing](https://flightrecorder.getingeniousai.com/pricing)
+- [Support](https://flightrecorder.getingeniousai.com/contact)
+- [Blog](https://flightrecorder.getingeniousai.com/blog)
+- [Security](https://flightrecorder.getingeniousai.com/security)
+- [Terms of service](https://flightrecorder.getingeniousai.com/terms)
+- [Privacy policy](https://flightrecorder.getingeniousai.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 53.5** — developing · rubric 0.27.0 · scored 2026-11-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 39.2 |
+| Contract governance | 65.5 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 56.4 |
+| Access clarity | 73.2 |
+
+**Agent readiness 30.5** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 28.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/flightrecorder-getingeniousai-com/](https://apis.io/providers/flightrecorder-getingeniousai-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Agent Flight Recorder (Ingenious AI): the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/flightrecorder-getingeniousai-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
